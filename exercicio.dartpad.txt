@@ -1,0 +1,10 @@
+void main() {
+  String nome = 'Camiseta Ads';
+  int quantidade = 3;
+  double preco = 49.90;
+  bool dísponivel = true;
+  const
+    double  imposto = 5.0;}
+}
+  
+  
